@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color:lightskyblue;
+
+}
+h1{
+    font-size: 40px;
+    font-weight:bolder;
+    font-family:'Courier New', Courier, monospace;
+}
+.line{
+    height:6px;
+    width:70px;
+    background-color:black;
+    margin:8px auto;
+}
